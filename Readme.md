@@ -58,4 +58,9 @@ Reservoir Sampling Algoritması (Rezervuar Örneklemesi); n'nin çok büyük vey
 
 ### Kaynakça
 -[1] İsdanni - Reservoir Sampling:[https://isdanni.com/reservoir_sampling_and_randomized_algorithms/#simple-algorithm](https://isdanni.com/reservoir_sampling_and_randomized_algorithms/#simple-algorithm)
+
 -[2] GeeksForGeeks - Reservoir Sampling:[https://www.geeksforgeeks.org/reservoir-sampling/](https://www.geeksforgeeks.org/reservoir-sampling/)
+
+-[3] Wikipedia - Reservoir Sampling:[https://en.wikipedia.org/wiki/Reservoir_sampling]
+8https://en.wikipedia.org/wiki/Reservoir_sampling)
+
